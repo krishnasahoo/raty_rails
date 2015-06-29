@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.email       = ["luisalima@gmail.com"]
   s.homepage    = "http://github.com/luisalima/raty_rails"
   s.summary     = "Gem for using jquery-raty in rails"
-  s.description = "TODO: Description of RatyRails."
+  #s.description = "TODO: Description of RatyRails."
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
   s.test_files = Dir["test/**/*"]
